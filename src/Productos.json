@@ -1,0 +1,92 @@
+[
+  {
+      "title":"RTX 3060TI",
+      "description":"Placa de video",
+      "price":600,
+      "thumbnail":"con foto",
+      "code":"abc1",
+      "stock":5,
+      "id": 1
+  },
+  {
+      "title":"RTX 3090TI",
+      "description":"Placa de video",
+      "price":900,
+      "thumbnail":"sin foto",
+      "code":"abc2",
+      "stock":20,
+      "id": 2
+  },
+  {
+      "title":"RTX 4060",
+      "description":"Placa de video",
+      "price":950,
+      "thumbnail":"imgrtx4060",
+      "code":"abc3",
+      "stock":15,
+      "id": 3
+  },
+  {
+      "title":"RTX 3070",
+      "description":"Placa de video",
+      "price":700,
+      "thumbnail":"sin foto",
+      "code":"abc4",
+      "stock":20,
+      "id": 4
+  },
+  {
+      "title":"GTX 1660s",
+      "description":"Placa de video",
+      "price":700,
+      "thumbnail":"sin foto",
+      "code":"abc5",
+      "stock":20,
+      "id": 5
+  },
+  {
+      "title":"GTX 1080",
+      "description":"Placa de video",
+      "price":700,
+      "thumbnail":"sin foto",
+      "code":"abc6",
+      "stock":20,
+      "id": 6
+  },
+  {
+      "title":"Logitech G PRO SUPERLIGHT",
+      "description":"Perifericos",
+      "price":100,
+      "thumbnail":"sin foto",
+      "code":"abc7",
+      "stock":20,
+      "id": 7
+  },
+  {
+      "title":"Logitech 203",
+     "description":"Perifericos",
+      "price":50,
+      "thumbnail":"sin foto",
+      "code":"abc8",
+      "stock":20,
+      "id": 8
+  },
+  {
+      "title":"Logitech 503",
+      "description":"Perifericos",
+      "price":50,
+      "thumbnai":"sin foto",
+      "code":"abc9",
+      "stock":20,
+      "id": 9
+  },
+  {
+      "title":"Logitech 900",
+      "description":"Perifericos",
+      "price":50,
+      "thumbnail":"sin foto",
+      "code":"abc10",
+      "stock":20,
+      "id": 10
+  }
+]
